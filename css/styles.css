@@ -532,7 +532,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 165px;
+  min-width: 165px;
   height: 40px;
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
@@ -633,7 +633,7 @@ a {
 }
 
 .form-field {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 .form-input {
   width: 100%;
@@ -746,7 +746,7 @@ input[type="checkbox"]:checked + label .checkbox-label-span {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
-  border-radius: 2px;
+  
 }
 .comment-link {
   color: #4d5ae5;
