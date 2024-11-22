@@ -634,6 +634,9 @@ a {
 }
 
 .form-field {
+  margin-bottom: 8px;
+}
+.comment-box {
   margin-bottom: 16px;
 }
 .form-input {
